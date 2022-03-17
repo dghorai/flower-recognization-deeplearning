@@ -1,7 +1,7 @@
 # flower-recognization
 Flower recognization using CNN 
 
-Data source: https://www.tensorflow.org/datasets/catalog/tf_flowers
+Data source: [Link to Dataset](https://www.tensorflow.org/datasets/catalog/tf_flowers)
 
 Total flowers image count in dataset:  3670
 Flowers names:  ['dandelion', 'tulips', 'sunflowers', 'roses', 'daisy']
